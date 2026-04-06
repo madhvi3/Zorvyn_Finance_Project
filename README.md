@@ -1,5 +1,9 @@
 Project Submission Documentation
 
+[https://a-hazel-ten-73.vercel.app/
+This is the deployed link, here you can access the entire project 
+If you want access as admin/analyst to evaluate, please mail me at @madhvichokda@gmail.com and I will update that]
+
 Technical Decisions and Implementation
 
 1. Framework and Core Stack
